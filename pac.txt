@@ -2475,7 +2475,7 @@ var domains = {
   "darpa.mil": 1, 
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1,
-   "pixiv.net": 1
+  "pixiv.net": 1
 };
 
 var proxy = "__PROXY__";
